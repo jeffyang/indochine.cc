@@ -1,7 +1,7 @@
 Part 1: Agriculture
 - Free markets fails to maxmize agriculture yields. Land ownership concentration/rent easier source of income. 
 - Land reform programmes in China, Japan, Korea, and Taiwan. Dividing land to create small household farms. Government support to maximize production. 
-- Large scale capitalist farms are more capital/labour efficient but early stage develping state with surfeit labour should be maximising production with labour with small labour intensive vegetable gardens.
+- Large scale capitalist farms are more capital/labour efficient but early stage develping state with surfeit labour should be maximising production with labour => small labour intensive vegetable gardens.
 - Most productive plots utilize solid leaf canopy / verticle gardening because close planting minimize water loss and discourage weeds.
 - Vegetable gardens per area yelds higher $$ value than large-scale cash corp farming. Eg. [Seed Money](seedmoney.org)
 - Efficiency in small-scale farming supported by infrastructures to delivery inputs such as fertilisers and seeds, and to facilitate storage, marketing and sales. 
@@ -13,3 +13,4 @@ Part 1: Agriculture
  3. Spend less on imported food / More on imported technology
  - Latin America's increasing manufacturing exports bled by stagnant agricultural output. "urban bias" (Michael Lipton), urban elites undervaluing farmers.
  - Household farms' welfare role. In economic downturns, absorb unemployed and backup income. 
+ - With no more surplus labour, farming needs to rebalance towards productivity/profit. Specialise by activity, greater competitive strength in manufacturing/services. p49.
